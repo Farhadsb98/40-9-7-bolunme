@@ -1,0 +1,15 @@
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\bin\Debug\net6.0\40-9-7 ye bolunme.exe
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\bin\Debug\net6.0\40-9-7 ye bolunme.deps.json
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\bin\Debug\net6.0\40-9-7 ye bolunme.runtimeconfig.json
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\bin\Debug\net6.0\40-9-7 ye bolunme.dll
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\bin\Debug\net6.0\40-9-7 ye bolunme.pdb
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\40-9-7 ye bolunme.csproj.AssemblyReference.cache
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\40-9-7 ye bolunme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\40-9-7 ye bolunme.AssemblyInfoInputs.cache
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\40-9-7 ye bolunme.AssemblyInfo.cs
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\40-9-7 ye bolunme.csproj.CoreCompileInputs.cache
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\40-9-7 ye bolunme.dll
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\refint\40-9-7 ye bolunme.dll
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\40-9-7 ye bolunme.pdb
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\40-9-7 ye bolunme.genruntimeconfig.cache
+C:\Users\farha\source\repos\40-9-7 ye bolunme\40-9-7 ye bolunme\obj\Debug\net6.0\ref\40-9-7 ye bolunme.dll
