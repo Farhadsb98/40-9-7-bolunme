@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\40-9-7 ye bolunme\\40-9-7 ye bolunme.csproj": {}
+    "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\clone\\40-9-7-bolunme\\40-9-7 ye bolunme\\40-9-7 ye bolunme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\40-9-7 ye bolunme\\40-9-7 ye bolunme.csproj": {
+    "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\clone\\40-9-7-bolunme\\40-9-7 ye bolunme\\40-9-7 ye bolunme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\40-9-7 ye bolunme\\40-9-7 ye bolunme.csproj",
+        "projectUniqueName": "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\clone\\40-9-7-bolunme\\40-9-7 ye bolunme\\40-9-7 ye bolunme.csproj",
         "projectName": "40-9-7 ye bolunme",
-        "projectPath": "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\40-9-7 ye bolunme\\40-9-7 ye bolunme.csproj",
+        "projectPath": "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\clone\\40-9-7-bolunme\\40-9-7 ye bolunme\\40-9-7 ye bolunme.csproj",
         "packagesPath": "C:\\Users\\farha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\40-9-7 ye bolunme\\obj\\",
+        "outputPath": "C:\\Users\\farha\\source\\repos\\40-9-7 ye bolunme\\clone\\40-9-7-bolunme\\40-9-7 ye bolunme\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
