@@ -20,6 +20,8 @@
                 Console.WriteLine("hec birine bolunmur");
 
 
+            Console.WriteLine("hello");
+            Console.WriteLine("Salam");
         }
     }
 }
