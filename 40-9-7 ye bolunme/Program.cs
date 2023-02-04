@@ -22,6 +22,7 @@
 
             Console.WriteLine("hello");
             Console.WriteLine("Salam");
+            Console.WriteLine("fkg");
         }
     }
 }
